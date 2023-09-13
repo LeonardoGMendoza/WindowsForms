@@ -21,5 +21,10 @@ namespace CursoWF
         {
             Application.Exit();
         }
+
+        private void Btn_moficador_Click(object sender, EventArgs e)
+        {
+            lbl_Titulo.Text = "Texto Modificado";
+        }
     }
 }

@@ -31,6 +31,7 @@ namespace CursoWF
         {
             this.lbl_Titulo = new System.Windows.Forms.Label();
             this.Btn_Sair = new System.Windows.Forms.Button();
+            this.Btn_moficador = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl_Titulo
@@ -53,12 +54,23 @@ namespace CursoWF
             this.Btn_Sair.UseVisualStyleBackColor = true;
             this.Btn_Sair.Click += new System.EventHandler(this.Btn_Sair_Click);
             // 
+            // Btn_moficador
+            // 
+            this.Btn_moficador.Location = new System.Drawing.Point(54, 69);
+            this.Btn_moficador.Name = "Btn_moficador";
+            this.Btn_moficador.Size = new System.Drawing.Size(232, 23);
+            this.Btn_moficador.TabIndex = 2;
+            this.Btn_moficador.Text = "Modifica texto do Label";
+            this.Btn_moficador.UseVisualStyleBackColor = true;
+            this.Btn_moficador.Click += new System.EventHandler(this.Btn_moficador_Click);
+            // 
             // Frm_HelloWorld
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.ClientSize = new System.Drawing.Size(555, 401);
+            this.Controls.Add(this.Btn_moficador);
             this.Controls.Add(this.Btn_Sair);
             this.Controls.Add(this.lbl_Titulo);
             this.Name = "Frm_HelloWorld";
@@ -72,6 +84,7 @@ namespace CursoWF
 
         private System.Windows.Forms.Label lbl_Titulo;
         private System.Windows.Forms.Button Btn_Sair;
+        private System.Windows.Forms.Button Btn_moficador;
     }
 }
 

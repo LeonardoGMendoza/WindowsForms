@@ -8,3 +8,13 @@ C:\Users\LEONARDO\Desktop\Curso WebForms\CursoWF\CursoWF\obj\Debug\CursoWF.cspro
 C:\Users\LEONARDO\Desktop\Curso WebForms\CursoWF\CursoWF\obj\Debug\CursoWF.csproj.CoreCompileInputs.cache
 C:\Users\LEONARDO\Desktop\Curso WebForms\CursoWF\CursoWF\obj\Debug\CursoWF.exe
 C:\Users\LEONARDO\Desktop\Curso WebForms\CursoWF\CursoWF\obj\Debug\CursoWF.pdb
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\bin\Debug\CursoWF.exe.config
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\bin\Debug\CursoWF.exe
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\bin\Debug\CursoWF.pdb
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.csproj.AssemblyReference.cache
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.Frm_HelloWorld.resources
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.Properties.Resources.resources
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.csproj.GenerateResource.cache
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.exe
+C:\Users\LEONARDO\source\repos\Curso WindowsForms\CursoWF\obj\Debug\CursoWF.pdb
